@@ -63,7 +63,8 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app in your bro
 ## 🖼️ Screenshot
 
 > Example UI preview:  
-> <img width="696" height="867" alt="Screenshot 2025-10-21 133955" src="https://github.com/user-attachments/assets/76f66110-a584-4648-bd15-158a0b507926" />
+> <img width="691" height="884" alt="image" src="https://github.com/user-attachments/assets/89552620-2e43-4fd1-9df8-76e602ce487e" />
+>
 
 
 ---
