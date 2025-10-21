@@ -39,6 +39,9 @@ cd ai-chat-web-app
 ### 2️⃣ Install Dependencies
 ```bash
 npm install
+node -v
+npm -v
+npx create-react-app ai-chat-app
 ```
 
 ### 3️⃣ Create Environment File
@@ -47,9 +50,6 @@ Create a file named `.env` in the root directory and add:
 REACT_APP_OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-⚠️ **Note:**  
-Do not share or upload your `.env` file publicly.  
-It is already ignored via `.gitignore`.
 
 ### 4️⃣ Run the App
 ```bash
