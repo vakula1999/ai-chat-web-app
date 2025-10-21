@@ -41,7 +41,6 @@ cd ai-chat-web-app
 npm install
 node -v
 npm -v
-npx create-react-app ai-chat-app
 ```
 
 ### 3️⃣ Create Environment File
