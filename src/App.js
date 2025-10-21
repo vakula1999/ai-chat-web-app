@@ -8,7 +8,7 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  // 🔑 Replace this with your actual API key
+
   const OPENAI_API_KEY = process.env.REACT_APP_OPENAI_API_KEY;
 
   const handleAsk = async () => {
